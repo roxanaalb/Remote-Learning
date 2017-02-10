@@ -1,0 +1,162 @@
+.css-background {
+    width: 100%;
+}
+.css-header {
+    margin-left: 57px;
+    margin-bottom: 95px;
+}
+.css-titlePage {
+    /*width: 784px;*/
+    /*height: 107px;*/
+    padding-bottom: 30px;
+}
+
+.css-titlePartOne, .css-titlePartTwo,.css-titleOne, .css-content, .css-timePost, .css-subtitlePartOne, .css-subtitlePartTwo,
+    .css-profileName, .css-secondPageContent, .css-tagColor, .css-tagAlign {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-stretch:condensed;
+    font-style: normal;
+}
+.css-titlePartOne {
+    font-weight: 300;
+    font-size: 150px;
+    color: #cc9f6e;
+    text-align: center;
+}
+.css-titlePartTwo {
+    font-weight: 700;
+    font-size: 150px;
+    color: #141619;
+    text-align: center;
+
+}
+.css-subtitlePartOne {
+    font-weight: 300;
+    font-size: 40px;
+    color: #0b0b0b;
+}
+.css-subtitlePartTwo {
+    font-weight: 700;
+    font-size: 40px;
+    color: #0b0b0b;
+}
+
+.css-titleOne {
+    font-weight: 700;
+    font-size: 18px;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.css-firstPageTitle {
+    background-color: #141619;
+    width: 300px;
+    height: 65px;
+    margin-bottom: 0;
+}
+.css-content {
+    margin-top: 0;
+    padding-top: 35px;
+    padding-left: 24px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #969aa1;
+    text-align: left;
+    width: 255px;
+
+}
+
+.css-tagColor {
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 16px;
+}
+.css-timePost {
+    color: #cc9f6e;
+    font-size: 16px;
+    text-align: left;
+    padding-left: 24px;
+}
+.to-space {
+    margin-bottom: 50px;
+}
+hr.css-lineHr {
+    background-color: #31363e;
+    border: none;
+    height: 1px;
+
+}
+
+.css-firstPage, .css-secondPage {
+    height: 490px;
+    width: 300px;
+    background-color: #000000 ;
+    margin-left: 57px;
+}
+.css-secondPage {
+   margin-top: 60px;
+}
+.clear-fix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+.text-load {
+    background-color: #cc9f6e;
+    height: 50px;
+    padding: 18px 85px 0 100px;
+    box-sizing: border-box;
+}
+a:link {
+    text-decoration: none;
+}
+
+.css-secondPageImage {
+    margin: 35px 64px 0 50px;
+}
+.css-profileName {
+    font-weight: 600;
+    font-size: 24px;
+    color: #ffffff;
+    text-align: left;
+    margin-left: 80px;
+}
+.css-secondPageContent {
+    font-weight: 400;
+    font-size: 14px;
+    text-align: center;
+    color: #969aa1;
+    margin: 0 43px 34px 43px;
+}
+/*.css-socialMedia {*/
+    /*float: right;*/
+/*}*/
+/*hr.css-instagram, hr.css-facebook, hr.css-twiter   {*/
+    /*float: left;*/
+    /*border: none;*/
+    /*height: 4px;*/
+    /*width: 100px;*/
+/*}*/
+/*hr.css-facebook {*/
+    /*background-color: #cc9f6e;*/
+/*}*/
+/*hr.css-instagram, hr.css-twiter {*/
+    /*background-color: #826d56;*/
+/*}*/
+.css-redirect {
+    background-color: #cc9f6e;
+    height: 50px;
+    padding: 10px 27px 10px 80px;
+    box-sizing: border-box;
+}
+.css-tagAlign {
+    color: #ffffff;
+    text-align: right;
+    font-weight: 700;
+    font-size: 16px;
+}
