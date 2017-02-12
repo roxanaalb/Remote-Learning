@@ -131,23 +131,9 @@ a:link {
     font-size: 14px;
     text-align: center;
     color: #969aa1;
-    margin: 0 43px 34px 43px;
+    margin: 0 43px 40px 43px;
 }
-/*.css-socialMedia {*/
-    /*float: right;*/
-/*}*/
-/*hr.css-instagram, hr.css-facebook, hr.css-twiter   {*/
-    /*float: left;*/
-    /*border: none;*/
-    /*height: 4px;*/
-    /*width: 100px;*/
-/*}*/
-/*hr.css-facebook {*/
-    /*background-color: #cc9f6e;*/
-/*}*/
-/*hr.css-instagram, hr.css-twiter {*/
-    /*background-color: #826d56;*/
-/*}*/
+
 .css-redirect {
     background-color: #cc9f6e;
     height: 50px;
@@ -159,4 +145,10 @@ a:link {
     text-align: right;
     font-weight: 700;
     font-size: 16px;
+}
+.css-floatLeft {
+    float: left;
+}
+.css-floatRight {
+    float: right;
 }

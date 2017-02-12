@@ -1,0 +1,488 @@
+.css-background {
+    width: 100%;
+}
+
+.css-titlePage {
+    padding-bottom: 30px;
+}
+
+.css-titlePartOne, .css-titlePartTwo,.css-titleOne, .css-content, .css-timePost, .css-subtitlePartOne, .css-subtitlePartTwo,
+.css-profileName, .css-secondPageContent, .css-tagColor, .css-tagAlign, .css-sixthTitle, .css-inputDisplay, .css-textBtn,
+.css-titleSeven, .css-linkPassword, .css-forEmail, .css-titleBold, .css-titleRegular, .css-paragraph, .css-houseOfCardsText,
+.css-textMenu, .css-mediaPlayerTitle, .css-mediaPlayerSubtitle, .css-lengthSong, .css-titleTen, .css-hour, .css-hourText, .css-titleEleven,
+.css-elevenSubtitle, .css-elevenSubtitle1, .css-elevenNotification, .css-tagSocial {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-stretch:condensed;
+    font-style: normal;
+}
+.css-titlePartOne {
+    font-weight: 300;
+    font-size: 150px;
+    color: #cc9f6e;
+    text-align: center;
+}
+.css-titlePartTwo {
+    font-weight: 700;
+    font-size: 150px;
+    color: #141619;
+    text-align: center;
+
+}
+.css-subtitlePartOne {
+    font-weight: 300;
+    font-size: 40px;
+    color: #0b0b0b;
+}
+.css-subtitlePartTwo {
+    font-weight: 700;
+    font-size: 40px;
+    color: #0b0b0b;
+}
+
+.css-titleOne {
+    font-weight: 700;
+    font-size: 18px;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-top: 0;
+}
+.css-firstPageTitle, .css-eightPageTitle, .css-eleventhPageTitle {
+    background-color: #141619;
+}
+.css-content {
+    margin-top: 0;
+    padding-top: 35px;
+    padding-left: 24px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #969aa1;
+    text-align: left;
+}
+
+.css-tagColor {
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 16px;
+}
+.css-timePost {
+    color: #cc9f6e;
+    font-size: 16px;
+    text-align: left;
+    padding-left: 24px;
+}
+.to-space {
+    margin-bottom: 50px;
+}
+hr.css-lineHr {
+    background-color: #31363e;
+    border: none;
+    height: 1px;
+
+}
+
+.css-firstPage, .css-secondPage, .css-thirdPage, .css-fourthPage, .css-fifthPage, .css-sixthPage, .css-seventhPage, .css-eightPage, .css-ninthPage,
+.css-tenthPage, .css-eleventhPage, .css-twelfthPage {
+    background-color: #000000 ;
+    margin-left: 57px;
+}
+.css-secondPage, .css-thirdPage, .css-fourthPage, .css-fifthPage, .css-sixthPage, .css-seventhPage, .css-eightPage,
+.css-ninthPage, .css-tenthPage, .css-eleventhPage, .css-twelfthPage {
+    margin-top: 80px;
+}
+.clear-fix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+.css-floatLeft {
+    float: left;
+}
+.css-floatRight {
+    float: right;
+    width: 100%;
+}
+
+.text-load {
+    background-color: #cc9f6e;
+    text-align: center;
+}
+a:link {
+    text-decoration: none;
+}
+
+.css-secondPageImage {
+    float: left;
+    overflow: hidden;
+    margin-top: 5%;
+    margin-left: 33.3%;
+    min-width: 30%;
+
+}
+.css-profileName {
+    font-weight: 600;
+    font-size: 24px;
+    color: #ffffff;
+    text-align: center;
+}
+.css-secondPageContent {
+    font-weight: 400;
+    font-size: 14px;
+    text-align: center;
+    color: #969aa1;
+}
+.css-socialMediaPages {
+    font-weight: 700;
+    /*font-size: 16px;*/
+    color: #969aa1;
+    float: left;
+    text-align: center;
+}
+a.css-socialMediaPages {
+    width: 33.3%;
+    border-right: 4px solid black;
+    box-sizing: border-box;
+}
+.borderDesign1 {
+    border-top: 4px solid #826d56;
+}
+.borderDesign2 {
+    border-top: 4px solid #cc9f6e;
+}
+.css-redirect {
+    background-color: #cc9f6e;
+    text-align: center;
+}
+.css-tagAlign {
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 16px;
+}
+.css-imageVampire {
+    width: 100%;
+    height: 100%;
+}
+.css-volumeImg {
+    float: right;
+    margin-right: 2%;
+    margin-top: 0.5%;
+}
+.css-volumeBtn {
+ width: 4.5%;
+}
+.css-videoBorder1 {
+    background-color: #cc9f6e;
+    border-radius: 10px;
+    border-color: #cc9f6e;
+    height: 6px;
+    margin-left: 1%;
+    width: 30%;
+    margin-top: 2%;
+}
+.css-videoBorder2 {
+    background-color: #826d56;
+    border-radius: 10px 10px 10px 0;
+    border-color: #826d56;
+    height: 6px;
+    width: 60%;
+    margin-left: -1%;
+    margin-top: 2%;
+}
+.css-backgroundContainer {
+    background-size: 100% 100%;
+}
+.css-theOriginals {
+    width: 100%;
+}
+.css-btnsFourth {
+    background-color: #0b0b0b;
+}
+.css-tagSocial {
+    font-weight: 700;
+    font-size: 11px;
+    color: #969aa1;
+    width: 25%;
+    text-align: center;
+}
+.play {
+    float: right;
+    width: 25%;
+    background-color: #cc9f6e;
+}
+.css-imageTag1 {
+    background-color: #cc9f6e;
+    margin-left: 40%;
+}
+.css-imageTag {
+    margin-top: 0;
+}
+.css-borderTags {
+    width: 25%;
+    background-color: #826d56;
+    border-color: #826d56;
+    height: 6px;
+}
+.css-textMenu {
+    font-weight: 700;
+    font-size: 14px;
+    color: #969aa1;
+}
+a.css-textMenu {
+    float: left;
+    width: 25%;
+    border-bottom: 1px groove #969aa1;
+    border-right: 1px groove #969aa1;
+    box-sizing: border-box;
+}
+a.css-textMenu:hover, a.css-textMenu:active, a.css-socialMediaPages:hover {
+    color: #ffffff;
+}
+.css-imageMenu {
+    padding-top: 1%;
+}
+.css-videoPosition {
+    width: 100%;
+    height: 385px;
+}
+.css-videoContainer {
+    float: left;
+    width: 50%;
+}
+.css-houseOfCardsText {
+    width: 40%;
+    float: right;
+}
+.css-houseOfCardsTitle {
+    font-weight: 400;
+    font-size: 18px;
+    color: #ffffff;
+}
+.css-houseOfCardsParagraph {
+    font-weight: 400;
+    /*font-size: 12px;*/
+    color: #969aa1;
+    padding-bottom: 10%;
+}
+a.subscribe {
+    color: #ffffff;
+}
+.css-sixthTitle {
+    font-weight: 700;
+    font-size: 14px;
+    color: #ffffff;
+    text-align: left;
+    margin: 2%;
+}
+.css-inputDisplay {
+    background-color: #262a30;
+    font-weight: 400;
+    font-size: 14px;
+    color: #ffffff;
+    text-align: center;
+    width: 60%;
+    margin: 2%;
+    border: none;
+    outline: none;
+    height: 40px;
+}
+.displayOne, .displayTwo {
+    width: 96%;
+}
+
+.css-sendBtn {
+    background-color: #cc9f6e;
+    border: none;
+    outline: none;
+    min-width: 10%;
+    height: 40px;
+}
+.css-textBtn {
+    font-weight: 700;
+    font-size: 18px;
+    color: #ffffff;
+}
+.signBtn {
+    margin-left: 45%;
+    margin-bottom: 1%;
+}
+.css-mediaPlayerTitle, .css-mediaPlayerSubtitle {
+    font-weight: 600;
+    color: #ffffff;
+}
+.css-mediaPlayerTitle {
+    font-size: 16px;
+}
+.css-mediaPlayerSubtitle {
+    font-size: 13px;
+    margin-left: 4%;
+}
+.css-btns {
+    float: right;
+    margin-right: 4%;
+}
+hr.css-hrColor1 {
+    background-color: #cc9f6e;
+    border-radius: 10px;
+    border-color: #cc9f6e;
+    height: 6px;
+    margin-left: 1%;
+    width: 70%;
+}
+hr.css-hrColor2 {
+    background-color: #31353a;
+    border-radius: 10px 10px 10px 0;
+    border-color: #31353a;
+    height: 6px;
+    width: 20%;
+    margin-left: -1%;
+}
+.css-lengthSong {
+    font-weight: 400;
+    font-size: 14px;
+    color: #969aa1;
+    float: right;
+    margin-top: 0;
+    margin-right: 4%;
+}
+.css-titleEight {
+    font-weight: 700;
+    font-size: 18px;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 0;
+}
+a.css-toPassword {
+    margin-left: 47%;
+}
+.css-linkPassword {
+    font-weight: 400;
+    font-size: 14px;
+    color: #ffffff;
+    text-align: center;
+}
+.css-forEmail {
+    font-weight: 700;
+    font-size: 14px;
+    color: #ffffff;
+    text-align: center;
+}
+input.displayOne {
+    background: #262a30 url('images/email_03.png') 5px 4px no-repeat;
+}
+input.displayTwo {
+    background: #262a30 url('images/password_03.png') 5px 4px no-repeat;
+}
+.css-titleTen {
+    font-weight: 700;
+    font-size: 14px;
+    color: #f1f1f3;
+    margin-left: 2%;
+}
+.titleBtnContainer {
+    width: 100%;
+    height: 10%;
+}
+.css-videoBtnContainer {
+    background-color: #262a30;
+    float: right;
+}
+.css-tenthPageContent {
+    width: 100%;
+    height: 265px;
+}
+.css-imageTenth {
+    width: 25%;
+}
+.css-hourContainer {
+    width: 75%;
+    height: 100%;
+    background-color: #cc9f6e;
+}
+.css-hour,  .css-hourText  {
+    font-weight: 400;
+    color: #ffffff;
+}
+.css-hour{
+    font-size: 48px;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+}
+.css-hourText {
+    font-size: 11px;
+    text-align: center;
+    margin-left: 4%;
+    margin-right: 8.5%;
+    margin-top: 0;
+}
+.css-titleEleven {
+    font-weight: 700;
+    font-size: 14px;
+    color: #f1f1f3;
+    margin-left: 2%;
+    margin-top: 0;
+}
+.css-elevenContent {
+    margin-left: 2%;
+}
+.css-imageELeven {
+    width: 25%;
+    margin-bottom: 2%;
+}
+.css-elevenSubtitle {
+    font-weight: 700;
+    font-size: 20px;
+    color: #ffffff;
+    margin-left: 4%;
+    margin-top: 40%;
+}
+.css-elevenSubtitle1 {
+    font-weight: 400;
+    font-size: 14px;
+    color: #969aa1;
+    margin-left: 4%;
+    margin-top: 0;
+}
+.css-notification {
+    font-weight: 700;
+    font-size: 16;
+    color: #ffffff;
+}
+.css-titleBold {
+    font-weight: 700;
+    font-size: 25px;
+    color: #ffffff;
+}
+.css-titleRegular {
+    font-weight: 400;
+    font-size: 25px;
+    color: #ffffff;
+}
+.css-contentText {
+    margin-left: 2%;
+    width: 30%;
+    float: left;
+}
+.css-paragraph {
+    font-weight: 300;
+    font-size: 18px;
+    color: #969aa1;
+}
+.css-breakingBad {
+    width: 100%;
+    height: 100%;
+}
+.css-imageContainer {
+    width: 65%;
+    float: right;
+}
+
+
+
+
+
+
+
